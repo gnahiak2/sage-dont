@@ -25,7 +25,7 @@ TRIGGER = re.compile(r"channel|ping", re.IGNORECASE)
 def channel_ping(event, say, logger):
     logger.info(f"ooo theres a event -> {event}")
 
-    say(text="sage dont", thread_ts=event.get("thread_ts") or event["ts"])
+    say(text="sage dont")
 
 
 if __name__ == "__main__":
