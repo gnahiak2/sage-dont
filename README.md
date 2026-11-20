@@ -35,3 +35,11 @@ and be joyous!
 
 ## AI DISCLOSURE
 debugging and writing the slack manifiest
+
+## Docker
+
+With `.env` filled in:
+
+```sh
+docker compose up -d --build
+```
