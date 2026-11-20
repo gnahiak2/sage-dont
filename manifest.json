@@ -1,0 +1,39 @@
+{
+  "display_information": {
+    "name": "sage dont",
+    "description": "Replies \"sage dont\" to channel pings"
+  },
+  "features": {
+    "bot_user": {
+      "display_name": "sage dont",
+      "always_online": true
+    }
+  },
+  "oauth_config": {
+    "scopes": {
+      "bot": [
+        "channels:history",
+        "groups:history",
+        "im:history",
+        "mpim:history",
+        "chat:write"
+      ]
+    }
+  },
+  "settings": {
+    "event_subscriptions": {
+      "bot_events": [
+        "message.channels",
+        "message.groups",
+        "message.im",
+        "message.mpim"
+      ]
+    },
+    "interactivity": {
+      "is_enabled": false
+    },
+    "org_deploy_enabled": false,
+    "socket_mode_enabled": true,
+    "token_rotation_enabled": false
+  }
+}
