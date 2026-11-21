@@ -2,17 +2,15 @@
 whenever someone says channel/ping/channel ping or pings channel, it says sage dont
 
 
-here's an AWESOME gif of my project!
-
-
-![awesome gif](https://user-cdn.hackclub-assets.com/019f0195-7b3c-7a6b-a8c9-ba589c575ae6/blahajmeow.gif)
+here's an AWESOME screenshot of my project!
+![awesome gif](https://coral.hackclub.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--bbff6ac1f1b3ee3f2b74d5cce16327e65d1f7f1c/SCR-20261120-rmnx.png)
 ## HOW THIS WAS MADE
 this project was made in [python](https://www.python.org/) with the [slack bolt for python sdk](https://docs.slack.dev/tools/bolt-python/)
 
 ## heres how to run the project :)
 1. Clone the source code to your device
 ```sh
-git clone https://github.com/vivithequeen/horizons-guides.git
+git clone https://github.com/gnahiak2/sage-dont.git
 ```
 
 2. fill in your .env
