@@ -31,9 +31,6 @@ python app.py
 ```
 and be joyous!
 
-## AI DISCLOSURE
-debugging and writing the slack manifiest
-
 ## Docker
 
 With `.env` filled in:
@@ -41,3 +38,6 @@ With `.env` filled in:
 ```sh
 docker compose up -d --build
 ```
+
+## AI DISCLOSURE
+debugging and writing the slack manifiest
